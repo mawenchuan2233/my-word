@@ -1,2 +1,2 @@
 # my-word
-I love :coffee:, :pizza :, and :dancer:.
+I love 🧀:, :pizza :, and :dancer:.
